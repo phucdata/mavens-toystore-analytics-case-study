@@ -40,8 +40,9 @@ Case study completed as part of the SEO-V Momentum 2025 Mentorship Case.
 
 ## Repository Structure
 
+-  `DASHBOARD.pbix`: Dashboard file
+- `DASHBOARD.png`: Dashboard screenshots
 - `data.xlsx`: Source dataset
-- `dashboard.png`: Dashboard screenshots
 
 ## Notes
 
